@@ -1,2 +1,2 @@
- // como calcular a conta do juros composto
+ // como calcular a conta de matematica
 
