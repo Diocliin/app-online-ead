@@ -1,4 +1,4 @@
-# App Online - Campanha de natal
+# App Online - titulo para campanha atual
 
 ## Contato
 Duvidas: contato@app.com.br
