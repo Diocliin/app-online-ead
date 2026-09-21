@@ -1,4 +1,4 @@
-# App Online - Campanha de Black Friday
+# App Online - Campanha de Natal
 
 ## Contato
 Duvidas: contato@app.com.br
