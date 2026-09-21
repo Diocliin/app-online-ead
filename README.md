@@ -1,4 +1,4 @@
-# App Online - Campanha de Natal
+# App Online - Campanha de ano novo
 
 ## Contato
 Duvidas: contato@app.com.br
